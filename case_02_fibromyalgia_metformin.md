@@ -17,7 +17,7 @@ Cognitive fog: Difficulty concentrating, memory complaints, word-finding difficu
 
 Relevant metabolic data:
 
-BMI: 25–30 (overweight range, not obese)
+BMI: 20 - 25
 Fasting blood glucose: normal
 HbA1c: normal
 No prior diagnosis of diabetes or pre-diabetes
@@ -27,7 +27,7 @@ Current medications:
 
 Meloxicam 15mg — prescribed on a 2 weeks on / 2 weeks off cycle
 
-Standard first-line fibromyalgia pharmacotherapy (duloxetine, pregabalin, amitriptyline) had either not been initiated or had not produced sufficient relief.
+Standard first-line fibromyalgia pharmacotherapy (duloxetine, pregabalin, amitriptyline) had not produced sufficient relief.
 
 The Clinical Decision
 The attending neurologist — a physician with over 100 peer-reviewed publications and active research in neuroinflammation and pain — prescribed metformin 500mg once daily (half of a standard 1000mg tablet).
